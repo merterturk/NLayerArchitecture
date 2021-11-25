@@ -9,4 +9,5 @@
 #### AutoMapper
 #### Filters (ValidatonFilter-NotFoundFilter)
 
+### Resource : https://www.udemy.com/course/asp-net-core-api-web-cok-katmanli-mimari-api-best-practices/
 
